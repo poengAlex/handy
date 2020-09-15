@@ -1,2 +1,2 @@
 # handy
-Public stuff for Handy
+Bucket for all public things for the Handy.
